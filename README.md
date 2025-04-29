@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=22D3EE&width=500&lines=✨+Matías+Leiva+%7C+Full+Stack;🚀+Especialista+Flutter+%26+Firebase;💻+Experto+Astro+%26+Tailwind;🌐+Dev+Principal+@+MMMLPD" alt="Título animado optimizado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=22D3EE&width=500&lines=✨+Matías+Leiva+%7C+Full+Stack+Developer;🚀+Especialista+en+Flutter+%26+Firebase;💻+Experto+en+Astro+%26+Tailwind;🌐+Desarrollador+Principal+@+MMMLPD" alt="Título animado" />
 </div>
 
 <div align="center">
@@ -24,13 +24,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
-### **Entornos de Desarrollo**
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-
 ### **Herramientas**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 
 </div>
 
@@ -51,6 +48,21 @@
 🔹 **Características:**  
    - Autenticación facial en tiempo real  
    - Implementación móvil multiplataforma  
+   - Integración con sistemas de seguridad  
 
 ### **Plataforma Oficial MMMLPD**
 🔹 **Tecnologías:** Astro, Tailwind CSS, Firebase  
+🔹 **Características:**  
+   - Sitio web ultra-rápido  
+   - Diseño responsive  
+   - Integración con base de datos en tiempo real  
+
+## 📫 Contacto
+<div align="center">
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/tuperfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
