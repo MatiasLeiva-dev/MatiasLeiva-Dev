@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=22D3EE&width=500&lines=✨+Matías+Leiva+%7C+Full+Stack+Developer;🚀+Especialista+en+Flutter+%26+Firebase;💻+Experto+en+Astro+%26+Tailwind;🌐+Desarrollador+Principal+@+MMMLPD" alt="Título animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Full+Stack+Developer;Flutter+%26+Firebase+Especialist;Astro+%26+Tailwind+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
